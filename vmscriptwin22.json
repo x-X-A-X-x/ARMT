@@ -1,4 +1,4 @@
-vmname="myVM"
+vmname="myVM" //this creates a vm in the azure cli
 username="azureuser"
 
 az vm create \
